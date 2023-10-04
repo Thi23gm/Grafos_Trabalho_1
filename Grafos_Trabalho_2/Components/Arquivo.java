@@ -31,7 +31,7 @@ public class Arquivo {
                             if (aresta.length >= 2) {
                                 arr[0] = Integer.parseInt(aresta[0]); // Predecessor
                                 arr[1] = Integer.parseInt(aresta[1]); // Sucessor
-                                grafo.add(arr[0], arr[1]);
+                                grafo.addEdge(arr[0], arr[1]);
                             }
                         }
                     }
