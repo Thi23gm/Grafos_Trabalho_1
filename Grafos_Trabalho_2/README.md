@@ -27,13 +27,13 @@ A DFS é amplamente utilizada em problemas de análise de conectividade, ordena�
 
 1 - Faça o clone do repositorio
 ```sh
-git clone https://github.com/Thi23gm/Grafos_Trabalho_1.git
+git clone https://github.com/Thi23gm/Grafos_Trabalho_2.git
 ```
 
 2- Navegue até a pasta do projeto e compile o arquivo principal:
 
 ```sh
-cd Grafos_Trabalho_1
+cd Grafos_Trabalho_2
 javac Main.java
 ```
 3- Execute a aplicação:
