@@ -69,7 +69,7 @@ java DualMatrixTransportation
 10 12 14 13 16 18 17 21 25 28
 ```
 
-- Para o grafo de teste com 7 linhas e 5 colunas " Tests/input-1.txt ":
+- Para o grafo de teste com 3 linhas e 3 colunas " Tests/input-1.txt ":
 ```sh
 3 3
 10
